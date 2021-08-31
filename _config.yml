@@ -1,0 +1,21 @@
+title: TODO Ben's Blog Title
+author: Benjamin M. Gyori
+email: benjamin_gyori@hms.harvard.edu
+description: >
+  TODO Ben's Blog's description
+
+minima:
+  social_links:
+    twitter: benjamingyori
+    github: bgyori
+    linkedin: benjamin-m-gyori-0519b630
+
+show_excerpts: true
+
+markdown: kramdown
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
